@@ -1,0 +1,4 @@
+com\qz\guns\core\support\WafKit.class
+com\qz\guns\core\support\WafRequestWrapper.class
+com\qz\guns\core\support\HttpKit.class
+com\qz\guns\core\base\controller\BaseController.class
